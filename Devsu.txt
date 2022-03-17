@@ -1,0 +1,21 @@
+Preguntas:
+1.  Dockerizar una aplicación
+2.  Dockerhub y repositorio externo
+3.  Framework más dificil con lenguaje
+4.  Que nubes manejas y que servicios
+5.  Git rebase y stash
+6.  Que herramientas de CI conoces
+7.  Gitflow
+8.  CI/CD
+9.  Herramientas de Monitoreo
+10. IaC y terraform
+11. Prácticas DevOps
+12. Nginx proxy reverse
+
+Conocimientos:
+- Conocimientos básicos de programación
+- Git
+- Linux
+- Docker
+- CI/CD tools
+- Terraform
